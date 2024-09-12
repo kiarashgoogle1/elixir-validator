@@ -55,7 +55,7 @@ Create an EVM metamask wallet and write its private and public keys
 4. **Stake them**
 5. **Click `CUSTOM VALIDATOR` and enter your wallet public address and sign the tx**
 
-## 5- Running Your Validator
+## 5- Running Your  Multi Validator
 
 1- **Download `validator.env`**:
 ```console
